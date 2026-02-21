@@ -1,16 +1,16 @@
-# MedElite – Hospital Management System 🏥  
+# MedElite – Hospital Management System
 **Secure MERN-Based Healthcare Workflow Platform**
 
 MedElite is a full-stack Hospital Management System designed to streamline healthcare operations through **role-based dashboards, appointment scheduling, billing workflows, and centralized patient medical records**. The platform enables patients, doctors, and receptionists to manage hospital processes efficiently through a unified digital interface.
 
 ---
 
-## 🚀 Overview
+## Overview
 Traditional hospital workflows often involve fragmented systems, manual paperwork, and inefficient coordination between departments. MedElite provides a **centralized digital solution** that simplifies appointment handling, patient record management, billing, and authentication while ensuring secure access for different user roles.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - **Role-Based Dashboards:** Dedicated interfaces for Patients, Doctors, and Receptionists  
 - **Appointment Scheduling:** Smart time-slot booking and management  
 - **Check-in / Check-out & Billing:** Real-time patient workflow handling  
@@ -19,7 +19,7 @@ Traditional hospital workflows often involve fragmented systems, manual paperwor
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Database:** MongoDB  
 - **Backend:** Node.js, Express.js  
 - **Frontend:** HTML, CSS, JavaScript  
@@ -27,7 +27,7 @@ Traditional hospital workflows often involve fragmented systems, manual paperwor
 
 ---
 
-## 👨‍💻 Contributions
+## Contributions
 - Designed UI/UX workflows for dashboards  
 - Implemented secure role-based authentication  
 - Developed backend APIs and routing logic  
@@ -35,5 +35,5 @@ Traditional hospital workflows often involve fragmented systems, manual paperwor
 
 ---
 
-## 🌍 Vision
+## Vision
 MedElite aims to improve healthcare efficiency by delivering a **secure, scalable, and user-friendly hospital workflow management system** that reduces administrative overhead and enhances patient service delivery.
